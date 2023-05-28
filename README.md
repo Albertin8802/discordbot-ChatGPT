@@ -15,6 +15,7 @@ Una vez iniciado el proyecto este te deberia responder en base a lo de chat-gpt
 
 NPM de ser necesario:
 > npm install discord.js
+
 > npm install openai
 
 # Contacto:
