@@ -3,7 +3,6 @@ Bot de discord que usa la API de chatGpt para dar respuestas
 
 El example .env debe quedar solo en un .env para que te funcione
 
-
 Para quitar el envio de mensajes automaticos cada 1H tienes que elminar
 ![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/23fee884-c4a4-4581-8270-109397dba6f8)
 
