@@ -9,7 +9,7 @@ Para quitar el envio de mensajes automaticos cada 1H tienes que elminar
 del inde.js y del env el auto message
 
 Una vez iniciado el proyecto este te deberia responder en base a lo de chat-gpt
-![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/f2a1c06c-76c1-421a-bb01-b5020f26dcd8)
+![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/36f9b124-dcc9-4f9d-b7ec-8ee598d699ee)
 
 ![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/ba8c1f15-eae4-4865-9e51-5bd7a887f585)
 
