@@ -18,7 +18,21 @@ NPM de ser necesario:
 
 > npm install openai
 
+# ¿Como creo un bot y consigo la API?
+Bot de discord:
+https://discord.com/developers/applications
+
+API:
+https://platform.openai.com/account/api-keys
+![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/d372dd6d-3d75-4b4f-ade9-06119a1d801d)
+![image](https://github.com/Albertin8802/discordbot-ChatGPT/assets/102251542/2c443d54-1c36-430a-9050-77739dbf2d3a)
+
+
 # Contacto:
 Discord: Albertin#8802
+
+
+
+
 
 
